@@ -138,6 +138,4 @@ Sertakan screenshot Swift, input yang digunakan, output koordinat, sudut joint h
 - PlatformIO / Arduino framework (firmware opsional)
 - ESP32, PCA9685, OLED SSD1306 (hardware opsional)
 
-## Lisensi
 
-Proyek ini menggunakan lisensi MIT. Periksa lisensi setiap aset eksternal yang ditambahkan ke repository sebelum mendistribusikannya.
